@@ -8,3 +8,4 @@ RENCANA PROJECT MARCCEL
 * dengan API public
   `API bagus
 - Membuat aplikasi perhitungan
+* Matematika lanjut
