@@ -3,3 +3,4 @@ Marccel Resolusi
 - Bisa menghasilkan penghasilan dari coding.
 - Dapat terus bisa membantu orang lain sesuai kemampuan saya.
 - Membuat project yang bisa bermanfaat untuk banyak orang.
+- Mengintegrasikan perangkat IOT dengan web.
