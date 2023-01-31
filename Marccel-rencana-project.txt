@@ -2,6 +2,8 @@ RENCANA PROJECT MARCCEL
 
 - Membuat aplikasi Real Time Chat.
 * dengan biaya murah
-- Membuat web sistem terpadu
+  `dengan kualitas baik
+  ` dengan kapasitas baik
 - Membuat web berbasis API.
 * dengan API public
+
