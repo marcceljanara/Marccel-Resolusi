@@ -3,4 +3,4 @@ Marccel Resolusi
 - Bisa menghasilkan penghasilan dari coding.
 - Membuat project yang bisa bermanfaat untuk banyak orang.
 - Mengintegrasikan perangkat IOT dengan web.
-- Membuat web portfolio dinamis.
+- Membuat web portfolio dinamis dengan baik.
